@@ -1,0 +1,85 @@
+NEIGHBOR SEARCH-TO-CONVERSION FUNNEL ANALYSIS
+FINDINGS AND BUSINESS RECOMMENDATIONS
+
+KEY FINDINGS
+
+1. OVERALL CONVERSION PERFORMANCE
+   - Average conversion rate from search to paid reservation: ~10%
+   - Conversion rates remained relatively stable throughout 2023 (Jan-Nov: 7.6-10.8%)
+   - No major differences in search volumes by search term or category.
+
+2. ATTRIBUTION CHANNEL PERFORMANCE
+   - Facebook demonstrates consistently higher conversion rates despite lower volume
+   - Google Ads drives the highest search volume, has moderate conversion rates
+   - Channel-specific conversion rate analysis reveals:
+     * Facebook: Often outperforms other channels in conversion efficiency
+     * Google: Strong conversion rates with substantial volume
+     * Reddit: Consistently underperforms in conversion rates
+     * Google Maps: Shows promising conversion rates with moderate volume
+
+3. SEARCH ABANDONMENT PATTERNS
+   - 42,135 user sessions resulted in zero listing views after their first search
+   - Users rarely execute multiple searches after finding zero results
+   - Only 625 sessions involved a second search when the first yielded no views
+   - This represents a significant bounce rate and lost opportunity
+
+4. RESERVED LISTING IMPACT
+   - 9-10% of all listing views are on already-reserved properties
+   - Users encountering reserved listings show similar conversion patterns to those who don't
+   - Reserved listing encounters don't significantly deter users from eventual conversion
+   - Average of 3 listings viewed per search session
+
+
+BUSINESS RECOMMENDATIONS
+
+IMMEDIATE ACTIONS
+
+1. OPTIMIZE ATTRIBUTION SPEND ALLOCATION
+   Action: Analyze current paid advertising budget allocation across channels
+   - Investigate why Facebook shows higher conversion rates with lower attribution
+   - If Facebook has lower spend allocation, consider reallocating budget from underperforming channels
+   - Reduce spend on Reddit due to consistently poor conversion performance
+   - Maintain Google Ads investment given high volume, but optimize for quality over quantity
+
+2. IMPLEMENT SEARCH RESULT QUALITY FILTERS
+   Action: Add toggle for "Available Only" listings in search interface
+   - Hide reserved listings by default or provide clear filtering option
+   - This could improve the effective conversion rate by eliminating 9-10% of non-convertible views
+   - Implement clear visual indicators for reserved vs. available listings
+
+SHORT-TERM INITIATIVES
+
+3. DEVELOP SEARCH ABANDONMENT INTERVENTION
+   Action: Create "Search Assistant" feature for zero-result searches
+   - Implement pop-up or modal when user attempts to leave after zero-view search
+   - Use AI to generate alternative search suggestions or refined listings
+   - Provide curated recommendations based on search intent and location
+   - Test different intervention triggers and messaging
+
+4. ENHANCE SEARCH RESULT RELEVANCE
+   Priority: Medium
+   Action: Investigate root causes of search-to-view conversion failure
+   - Analyze search terms that frequently result in zero views
+   - Improve search algorithm to better match user intent with available inventory
+   - Consider implementing search term suggestions or auto-complete features
+   - Add search refinement tools (date range, price, amenities, etc.) (These may simply not have been present in the dataset provided for the exercise.)
+
+LONGER TERM STRATEGIES
+
+5. IMPLEMENT ADVANCED USER SESSION TRACKING
+   Action: Develop more sophisticated session and user journey analytics
+   - Track user behavior across multiple search sessions
+   - Identify patterns in successful vs. unsuccessful search journeys
+   - Create user cohorts based on search and conversion behavior
+   - Use insights to personalize search results and recommendations
+
+6. A/B TEST FACEBOOK ADVERTISING EXPANSION
+   Action: Systematically test increased Facebook ad spend
+   - Run controlled experiments increasing Facebook budget allocation
+   - Monitor conversion rates and customer acquisition costs
+   - Compare performance against reduced spend in other channels
+   - Scale successful Facebook campaigns based on test results
+
+
+In addition to the data provided I would be interested in examining session data to get a better idea of user behavior while shopping and what patterns lead to lost opportunity. 
+I would also be interested in identifying inflection points at which a user could be presented with a coupon or other offer to convert them to a paid reservation. This would include things like time spent on a window, price range inputs from the user in the search, etc.
